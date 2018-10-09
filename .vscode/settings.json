@@ -6,6 +6,9 @@
     "python.linting.mypyEnabled": true,
     "python.unitTest.unittestEnabled": true,
     "python.unitTest.unittestArgs": [
-        "discover", "test"
-    ]
+        "discover",
+        "test"
+    ],
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
 }
