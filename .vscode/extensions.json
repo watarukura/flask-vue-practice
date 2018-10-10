@@ -1,6 +1,7 @@
 {
-    "recommendations": [
-        "ms-python.python",
-        "octref.vetur"
-    ]
+  "recommendations": [
+    "ms-python.python",
+    "octref.vetur",
+    "esbenp.prettier-vscode"
+  ]
 }

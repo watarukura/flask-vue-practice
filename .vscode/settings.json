@@ -1,14 +1,14 @@
 {
-    "python.venvPath": ".venv",
-    "python.pythonPath": "${workspaceFolder}/.venv/bin/python",
-    "python.formatting.provider": "black",
-    "python.linting.flake8Enabled": true,
-    "python.linting.mypyEnabled": true,
-    "python.unitTest.unittestEnabled": true,
-    "python.unitTest.unittestArgs": [
-        "discover",
-        "test"
-    ],
-    "editor.formatOnType": true,
-    "editor.formatOnSave": true,
+  "python.venvPath": ".venv",
+  "python.pythonPath": "${workspaceFolder}/.venv/bin/python",
+  "python.formatting.provider": "black",
+  "python.linting.flake8Enabled": true,
+  "python.linting.mypyEnabled": true,
+  "python.unitTest.unittestEnabled": true,
+  "python.unitTest.unittestArgs": ["discover", "test"],
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all"
 }
